@@ -23,6 +23,7 @@
     android:layout_width="match_parent"
     android:minHeight="48dip"
     android:layout_marginBottom="@dimen/editor_padding_between_editor_views"
+    android:background="@color/exposed_account_header_bg"
     android:orientation="horizontal"
     android:paddingTop="16dp"
     android:visibility="gone" >
